@@ -1,0 +1,64 @@
+.porch{
+    width: 100%;
+    height: 100%;
+    //background-color: palevioletred;
+    color: white;
+
+    position: absolute;
+    top: 0;
+    left: 0;
+    //display: flex;
+    //justify-content: space-between;
+    //align-items: center;
+    //flex-direction: row;
+
+    .left{
+        width: 50%;
+        height: 100%;
+        background: url(../../assets/images/porch-left.jpg) no-repeat top right/contain;
+        right: 50%;
+        position: absolute;
+        transition: all 2s ease-out;
+        top: 0;
+        z-index: 10;
+
+    }
+    .left-finish{
+        right: 100% !important;
+        opacity: 0;
+    }
+    .right{
+        width: 50%;
+        height: 100%;
+        background: url("../../assets/images/porch-right.jpg") no-repeat top left/contain;
+        position: absolute;
+        left: 50%;
+        top: -3px;
+        transition: all 2s ease-out;
+        z-index: 10;
+    }
+    .right-finish{
+        left: 100% !important;
+        opacity: 0;
+    }
+
+
+    .handle-area-porch{
+        //width: 380px;
+        //height: 260px;
+        width: 100%;
+        height: 100%;
+        cursor: pointer;
+        background-color: red;
+        position: absolute;
+        transform: translate(-50%,-50%);
+        top: 650px;
+        left: 50%;
+        background-color: transparent;
+        z-index: 11;
+    }
+}
+.finished{
+    transition: all 3s ease-out;
+    display: none;
+}
