@@ -20,7 +20,7 @@ class Router extends Component {
             {/*<Nav />*/}
             <Switch>
             {/*    <CacheSwitch>*/}
-                    <Route path="/" exact component={Home} />
+            {/*        <Route path="/" exact component={Home} />*/}
 
                     {/* 404 */}
                     <Route path='/404' component={NotFoundPage} />

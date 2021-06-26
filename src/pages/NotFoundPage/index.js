@@ -1,4 +1,5 @@
 import React from 'react'
+import './404.scss'
 
 class NotFoundPage extends React.Component{
     constructor() {
@@ -6,7 +7,12 @@ class NotFoundPage extends React.Component{
     }
     render() {
         return <>
-            NotFoundPage
+            {
+                alert(`敬请期待`)
+            }
+            {
+                <div className='tips'>敬请期待</div>
+            }
             </>;
     }
 }
