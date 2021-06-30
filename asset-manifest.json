@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.7ed42601.chunk.css",
-    "main.js": "/static/js/main.56a2ae88.chunk.js",
-    "main.js.map": "/static/js/main.56a2ae88.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.0215f53c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.0215f53c.js.map",
+    "main.css": "/static/css/main.59ecaf06.chunk.css",
+    "main.js": "/static/js/main.fd3a1f5d.chunk.js",
+    "main.js.map": "/static/js/main.fd3a1f5d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.21c5e4ce.js",
+    "runtime-main.js.map": "/static/js/runtime-main.21c5e4ce.js.map",
     "static/css/2.d65e7a20.chunk.css": "/static/css/2.d65e7a20.chunk.css",
-    "static/js/2.9628622d.chunk.js": "/static/js/2.9628622d.chunk.js",
-    "static/js/2.9628622d.chunk.js.map": "/static/js/2.9628622d.chunk.js.map",
-    "static/js/3.f0688fe1.chunk.js": "/static/js/3.f0688fe1.chunk.js",
-    "static/js/3.f0688fe1.chunk.js.map": "/static/js/3.f0688fe1.chunk.js.map",
+    "static/js/2.184cda59.chunk.js": "/static/js/2.184cda59.chunk.js",
+    "static/js/2.184cda59.chunk.js.map": "/static/js/2.184cda59.chunk.js.map",
+    "static/js/3.f78fc4c2.chunk.js": "/static/js/3.f78fc4c2.chunk.js",
+    "static/js/3.f78fc4c2.chunk.js.map": "/static/js/3.f78fc4c2.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.d65e7a20.chunk.css.map": "/static/css/2.d65e7a20.chunk.css.map",
-    "static/css/main.7ed42601.chunk.css.map": "/static/css/main.7ed42601.chunk.css.map",
-    "static/js/2.9628622d.chunk.js.LICENSE.txt": "/static/js/2.9628622d.chunk.js.LICENSE.txt",
+    "static/css/main.59ecaf06.chunk.css.map": "/static/css/main.59ecaf06.chunk.css.map",
+    "static/js/2.184cda59.chunk.js.LICENSE.txt": "/static/js/2.184cda59.chunk.js.LICENSE.txt",
     "static/media/1-3.谁与争锋-蔡文强-泉州分行资产保全部-保全经理-13559533999.jpg": "/static/media/1-3.谁与争锋-蔡文强-泉州分行资产保全部-保全经理-13559533999.19397d42.jpg",
     "static/media/1-郭永琰.jpg": "/static/media/1-郭永琰.3cf6c92d.jpg",
     "static/media/1.齐心合力，抒写民生（银川分行田世福、成功）组照2.jpg": "/static/media/1.齐心合力，抒写民生（银川分行田世福、成功）组照2.6fa92df8.jpg",
@@ -98,10 +98,10 @@
     "static/media/黎映桃+满江红+机关工会网络金融部.jpg": "/static/media/黎映桃+满江红+机关工会网络金融部.efd9a02b.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0215f53c.js",
+    "static/js/runtime-main.21c5e4ce.js",
     "static/css/2.d65e7a20.chunk.css",
-    "static/js/2.9628622d.chunk.js",
-    "static/css/main.7ed42601.chunk.css",
-    "static/js/main.56a2ae88.chunk.js"
+    "static/js/2.184cda59.chunk.js",
+    "static/css/main.59ecaf06.chunk.css",
+    "static/js/main.fd3a1f5d.chunk.js"
   ]
 }
